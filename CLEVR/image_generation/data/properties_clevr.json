@@ -1,0 +1,20 @@
+{
+  "shapes": {
+    "cube": "SmoothCube_v2",
+    "sphere": "Sphere",
+    "cylinder": "SmoothCylinder"
+  },
+  "colors": {
+    "red": [173, 35, 35],
+    "blue": [42, 75, 215],
+    "green": [29, 105, 20]
+  },
+  "materials": {
+    "rubber": "Rubber",
+    "metal": "MyMetal"    
+  },
+  "sizes": {
+    "large": 0.60,
+    "small": 0.1
+  }
+}
